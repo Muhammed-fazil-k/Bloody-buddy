@@ -1,6 +1,6 @@
-###Blooody Buddy
+### Blooody Buddy
 
-#Technologies 
+# Technologies 
 Frontend - Next
 Backend - Strapi
 DB - Sqlite
